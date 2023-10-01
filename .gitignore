@@ -1,0 +1,11 @@
+# Jupyter Notebook-related files
+.ipynb_checkpoints
+
+# Mac
+.DS_Store
+
+# Data Folder
+data/
+
+# Virtual environment
+advent-of-code/
